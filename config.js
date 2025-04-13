@@ -1,7 +1,7 @@
 const { ActivityType } = require('discord.js');
 
 module.exports = {
-  ownerId: '580771765190656000',
+  ownerId: '123456789012345678',
   status: {
     rotateDefault: [
       { name: 'ngủ để quên đi nỗi buồn', type: ActivityType.Watching },
